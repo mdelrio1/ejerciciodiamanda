@@ -13,30 +13,30 @@ El#Guía de Instalación ![](http://d3fildg3jlcvty.cloudfront.net/20140519-02/gr
 
 - Ingresar desde tu navegador a la página oficial <https://www.Mendeley.com/>
 
-<center><img src="/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley1.png"/ width = 35%></center>
+<center><img src="img/Mendeley1.png"/ width = 35%></center>
 
  
 * Crear una cuenta libre.
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley2.png)
+![](img/Mendeley2.png)
 
 
 
 
 * Introducir los datos correspondientes. Posteriormente dar click a continuar. El perfil se ha creado.
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley3.png)
+![](img/Mendeley3.png)
 
 * Elegir tu "**status académico**" y "**campo de estudio**".
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley4.png)
+![](img/Mendeley4.png)
 * Descargar la aplicación.
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley001.png)
+![](img/Mendeley001.png)
 * Iniciar el proceso de instalación.
 
 * Finalizar la instalación.
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley006.png)
+![](img/Mendeley006.png)
 
 * Ingresar el usuario (correo electrónico) y la contraseña previamente establecida.
 
- ![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley007.png
+ ![](img/Mendeley007.png
 
 * **Se mostrará una ventana opcional**
 
@@ -48,13 +48,13 @@ El#Guía de Instalación ![](http://d3fildg3jlcvty.cloudfront.net/20140519-02/gr
 
 Es importante agregar a la barra de herramientas el marcador de *Mendeley*.        
 
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley00.png)
+![](img/Mendeley00.png)
 
 
  
 El *Mendeley* se enlazará con tu software de procesamiento de textos.
 
-![](/Users/migueldelrio/Documents/2015Cicese/Alumnos2015/DiamandaTapia/Github/img/Mendeley007001.png)
+![](img/Mendeley007001.png)
 
 
 
