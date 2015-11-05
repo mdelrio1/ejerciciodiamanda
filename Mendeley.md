@@ -58,7 +58,6 @@ El *Mendeley* se enlazará con tu software de procesamiento de textos.
 ![](img/Mendeley007001.png)
 
 
-
 #####Mendeley se convertirá en la mejor herramienta para citar, ordenar e insertar bibliografía correspondiente a cada trabajo que se realice.
 
 
