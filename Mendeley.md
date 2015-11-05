@@ -17,7 +17,6 @@
 
  
 * Crear una cuenta libre.
-![](img/Mendeley2.png)
 
 
 <center><img src="img/Mendeley2.png"/ width = 20%></center>
