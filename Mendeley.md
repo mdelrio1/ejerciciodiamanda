@@ -1,4 +1,4 @@
-El#Guía de Instalación ![](http://d3fildg3jlcvty.cloudfront.net/20140519-02/graphics/commonnew/logo-mendeley.png) 
+#Guía de Instalación ![](http://d3fildg3jlcvty.cloudfront.net/20140519-02/graphics/commonnew/logo-mendeley.png) 
 
 
 ----------
