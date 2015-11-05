@@ -20,6 +20,7 @@ El#Guía de Instalación ![](http://d3fildg3jlcvty.cloudfront.net/20140519-02/gr
 ![](img/Mendeley2.png)
 
 
+<img src="img/Mendeley2.png"/ width = 35%>
 
 
 * Introducir los datos correspondientes. Posteriormente dar click a continuar. El perfil se ha creado.
