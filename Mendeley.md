@@ -23,21 +23,21 @@
 
 
 * Introducir los datos correspondientes. Posteriormente dar click a continuar. El perfil se ha creado.
-<center><img src=img/Mendeley3.png/ width = 20%></center>
+<center><img src=img/Mendeley3.png/ width = 50%></center>
 
 * Elegir tu "**status académico**" y "**campo de estudio**".
-<center><img src=img/Mendeley4.png/ width = 20%></center>
+<center><img src=img/Mendeley4.png/ width = 50%></center>
 
 * Descargar la aplicación.
-![](img/Mendeley001.png)
+<center><img src=img/Mendeley001.png/ width = 50%></center>
 * Iniciar el proceso de instalación.
 
 * Finalizar la instalación.
-![](img/Mendeley006.png)
+<center><img src=img/Mendeley006.png/ width = 50%></center>
 
 * Ingresar el usuario (correo electrónico) y la contraseña previamente establecida.
 
- ![](img/Mendeley007.png
+<center><img src=img/Mendeley007.png/ width = 50%></center>
 
 * **Se mostrará una ventana opcional**
 
