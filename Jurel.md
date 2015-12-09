@@ -3,7 +3,6 @@
 
 <center>![](http://2.bp.blogspot.com/-hVuCjgzJCJk/UIvOChMVC7I/AAAAAAAAADo/0rJRQEySIyY/s320/40765.jpeg)</center>
 
-![abulon](http://mlm-s2-p.mlstatic.com/concha-de-abulon-en-bruto-por-kilo-3776-MLM4623474505_072013-F.jpg)
 ----------
 #el jurel cola amarilla es *Seriola lalandi* o *Seriola dorsalis* por favor corrige Revisa la carta estatal acuícolas  de B. C. y la carta federal pesquera y acuícola
 El jurel o chicharro común (*Trachurus spp.*) perteneciente a la familia de
