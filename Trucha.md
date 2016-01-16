@@ -46,7 +46,7 @@ ovocitos/cm de longitud, menor a la registrada en otras subespecies de truchas
 arcoíris con un promedio de 93.9 ovocitos/cm de longitud. 
 La trucha de la Sierra de San Pedro Mártir presenta un tamaño menor al comparado
 con otras subespecies de edad similar, por lo que la cantidad de ovocitos
-maduros también es menor. El tamaño promedio de los ovocitos de O. mykiss
+maduros también es menor. El tamaño promedio de los ovocitos de *O. mykiss*
 nelsoni es de 3.14 mm.
 
 <center>![](http://4.bp.blogspot.com/_AQJmO5o6f-M/ReJMl1DUQ2I/AAAAAAAAABE/4g5Fopu-XQ4/s400/ovas.jpg)</center>
