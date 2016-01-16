@@ -10,7 +10,8 @@ El Abulón (*Haliotis* spp.) pertenece a los ***Haliótidos***, éstos son una f
 
 ##Morfología general
 
-El abulón tiene una concha larga y gruesa, su  cara externa posee una forma auricular oval de 27 centímetros, es rugosa y de color variable mientras que su cara  anterior presenta una fila de cuatro a diez poros respiratorios moderadamente elevados a través de los cuales expulsan el agua contenida en el interior de la concha en caso de peligro, a fin de generar presión para adherirse vigorosamente a las rocas mediante su pie muscular. El interior es de nácar irisado y muy vistoso. La masa visceral contiene los aparatos y sistemas de órganos, es aplanada y ocupa espacio localizado entre pie y la concha. El manto es membranoso y se extiende sobre la masa visceral, cubriendo el borde de los orificios respiratorios y cumple con la función de formación y crecimiento de la concha. 
+El abulón tiene una concha larga y gruesa, su  cara externa posee una forma auricular oval de 27 centímetros, es rugosa y de color variable mientras que su cara  anterior presenta una fila de cuatro a diez poros respiratorios moderadamente elevados a través de los cuales expulsan el agua contenida en el interior de la concha en caso de peligro, a fin de generar presión para adherirse vigorosamente a las rocas mediante su pie muscular. El interior es de nácar irisado y muy vistoso. La masa visceral contiene los aparatos y sistemas de órganos, es aplanada y ocupa espacio localizado entre pie y la concha. El manto es membranoso y se extiende sobre la masa visceral, cubriendo el borde de los orificios respiratorios y cumple con la función de formación y crecimiento de la concha.
+
 ![](http://www.gastrosoler.com/haliotis%20genero.jpg)
 
 ----------
@@ -37,11 +38,13 @@ Estos moluscos se adhieren fuertemente a la roca por medio de un órgano musculo
 
 
 ##Dieta
-Este peculiar molusco se alimenta regularmente  por las noche, sus necesidades de alimento varían de acuerdo con la etapa de desarrollo; por ejemplo, de los huevos de abulón eclosionan larvas con nado libre, formando parte del plancton y se alimentan de algas microscópicas y animales planctónicos; conforme comienza la formación del pie, se fijan al fondo,  su alimentación se modifica para componerse principalmente de microalgas bentónicas; posteriormente, de adultos cambian su dieta y se alimentan de macroalgas que están adheridas al sustrato. 
+Este peculiar molusco se alimenta regularmente  por las noche, sus necesidades de alimento varían de acuerdo con la etapa de desarrollo; por ejemplo, de los huevos de abulón eclosionan larvas con nado libre, formando parte del plancton y se alimentan de algas microscópicas y animales planctónicos; conforme comienza la formación del pie, se fijan al fondo,  su alimentación se modifica para componerse principalmente de microalgas bentónicas; posteriormente, de adultos cambian su dieta y se alimentan de macroalgas que están adheridas al sustrato.
+
 <center>
 ![](http://www.ciencia1.com/images/biologia/microalgas-algas-marinas.jpg)
 </center>
-El abulón prefiere comer algas marinas y luego su poderoso sistema digestivo convierte el alimento en una mucosa similar a la de los caracoles de jardín que se deriva de los alginatos; ésta la convierte *?en carne?* y también la transforma en una concha de carbonatos.
+
+El abulón prefiere comer algas marinas y luego su poderoso sistema digestivo convierte el alimento en una mucosa similar a la de los caracoles de jardín que se deriva de los alginatos; ésta la convierte en carne y también la transforma en una concha de carbonatos.
 
 
 La dieta que presenta este organismo se nota en la coloración de la concha que también es un subproducto. Cada especie pinta la concha de forma distinta, en el caso del abulón rojo tiene una hermosa concha con interior en rosas tornasolados.
@@ -65,8 +68,10 @@ Las etapas de crecimiento del *Haliotis* se pueden ver en la parte exterior de l
 <center>![1 *Haliotis corrugata* ](http://www.schnecken-und-muscheln.de/galerie/illustrationen/haliotis-corrugata-1-250.JPG)      ![2 *Haliotis fulgens*](http://www.schnecken-und-muscheln.de/galerie/illustrationen/haliotis-fulgens-xl-poliert-innen-250.JPG)  <center>  
 1.*Haliotis corrugata*---------------------------------2.*Haliotis fulgens*   
         
-<center> ![3](http://www.vetigastropoda.com/SNAP/images/4400/4434-1.jpg) ![4](http://www.vetigastropoda.com/SNAP/images/4400/4438-1.jpg)</center>
-1.*Haliotis refuscens*---------------------------2. *Haliotis sorenseni*  
+<center> ![3](http://www.vetigastropoda.com/SNAP/images/4400/4434-1.jpg) ![4](http://www.vetigastropoda.com/SNAP/images/4400/4438-1.jpg)
+</center>
+
+1.*Haliotis refuscens*---------------------------2. *Haliotis sorenseni*</center>  
 
 
                    
