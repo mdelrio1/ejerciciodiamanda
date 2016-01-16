@@ -50,7 +50,8 @@ maduros también es menor. El tamaño promedio de los ovocitos de O. mykiss
 nelsoni es de 3.14 mm.
 
 <center>![](http://4.bp.blogspot.com/_AQJmO5o6f-M/ReJMl1DUQ2I/AAAAAAAAABE/4g5Fopu-XQ4/s400/ovas.jpg)</center>
-                             ##Ovocitos
+                             
+##Ovocitos
 
 ###Datos generales
 Es una especie muy pescada y criada en acuicultura con una importancia comercial grande, se vende fresco, congelado, ahumado, en salazón o enlatado, cocinándose en multitud de maneras, muy apreciado en gastronomía.
