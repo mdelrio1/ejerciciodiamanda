@@ -11,6 +11,9 @@ El ribosoma 70S se compone de dos subunidades desiguales en tamaño, con valores
  </center>
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/b/bc/Abalone_at_California_Academy_of_Sciences.JPG)
+
+
 ----------
 
 ###ARN ribosómico 16s 
