@@ -1,4 +1,4 @@
-#ARN Ribósomico 16s
+# <center>ARN Ribósomico 16s </center>
 
 ----------
 Los ribosomas fueron vistos por primera vez por Albert Claude a finales de los años 30, en homogenados celulares por microscopía de campo oscuro. Sin embargo, a mediados de los años 50 George Palade los observó en las células mediante microscopía electrónica. En 1955, Paul Zamecnik demostró que los ribosomas son el sitio de síntesis de proteínas. 
