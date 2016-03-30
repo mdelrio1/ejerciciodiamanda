@@ -55,7 +55,7 @@ Es importante agregar a la barra de herramientas el marcador de *Mendeley*.
  
 El *Mendeley* se enlazará con tu software de procesamiento de textos.
 
-![](img/Mendeley007001.png)
+![](img/Mendeley007.png)
 
 
 #####Mendeley se convertirá en la mejor herramienta para citar, ordenar e insertar bibliografía correspondiente a cada trabajo que se realice.
