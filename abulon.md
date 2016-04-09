@@ -65,16 +65,13 @@ Las etapas de crecimiento del *Haliotis* se pueden ver en la parte exterior de l
 ----------
 ##Especies
 
-<center>![1 *Haliotis corrugata* ](http://www.schnecken-und-muscheln.de/galerie/illustrationen/haliotis-corrugata-1-250.JPG)      ![2 *Haliotis fulgens*](http://www.schnecken-und-muscheln.de/galerie/illustrationen/haliotis-fulgens-xl-poliert-innen-250.JPG)  <center>  
-1.*Haliotis corrugata*---------------------------------2.*Haliotis fulgens*   
-        
-<center> ![3](http://www.vetigastropoda.com/SNAP/images/4400/4434-1.jpg) ![4](http://www.vetigastropoda.com/SNAP/images/4400/4438-1.jpg)
-</center>
+|   |  |
+|---------------|----------------------|
+|![1 *Haliotis corrugata* ](http://www.schnecken-und-muscheln.de/galerie/illustrationen/haliotis-corrugata-1-250.JPG)|![2 *Haliotis fulgens*](http://www.schnecken-und-muscheln.de/galerie/illustrationen/haliotis-fulgens-xl-poliert-innen-250.JPG) 
+|<center>*Haliotis corrugata*</center>|*Haliotis fulgens*|
+| ![3](http://www.vetigastropoda.com/SNAP/images/4400/4434-1.jpg) |![4](http://www.vetigastropoda.com/SNAP/images/4400/4438-1.jpg) 
+|*Haliotis refuscens*|*Haliotis sorenseni*      |
 
-1.*Haliotis refuscens*---------------------------2. *Haliotis sorenseni*</center>  
-
-
-                   
 	
 	
 
