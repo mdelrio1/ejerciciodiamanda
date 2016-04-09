@@ -19,7 +19,7 @@
 * Crear una cuenta libre.
 
 
-<center><img src="img/Mendeley2.png"/ width = 20%></center>
+<center><img src="img/Mendeley2.png"/ width = 40%></center>
 
 
 * Introducir los datos correspondientes. Posteriormente dar click a continuar. El perfil se ha creado.
