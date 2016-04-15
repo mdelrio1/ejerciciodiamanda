@@ -1,1 +1,1 @@
-<img src='img/Mendeley1.png'>
+<img src='img/Mendeley1.png'/ width =25%>
