@@ -6,7 +6,7 @@ Los ribosomas fueron vistos por primera vez por Albert Claude a finales de los a
 El nombre ribosoma, deriva del hecho de que estas partículas en *Escherichia coli* consisten de 2/3 de RNA y 1/3 de proteína. El ribosoma de E. coli, que posee una masa de 2.5×106 D y un coeficiente de sedimentación de 70S, es una partícula esferoidal que mide 250 Å de largo.
 El ribosoma 70S se compone de dos subunidades desiguales en tamaño, con valores de sedimentación (Svedbergs) de 30S y 50S. La subunidad pequeña (30S) consiste de una molécula de rRNA 16S y 21 proteínas diferentes, mientras que la subunidad grande (50S) contiene una de rRNA 5S y otra de rRNA 23S, con 31 proteínas diferentes. 
 
-![ribosoma](http://pendientedemigracion.ucm.es/info/genetica/grupod/Traduccion/ribosom.jpg)<center> 
+![](http://pendientedemigracion.ucm.es/info/genetica/grupod/Traduccion/ribosom.jpg)<center> 
 # Ribosomas
  </center>
 
@@ -15,7 +15,7 @@ El ribosoma 70S se compone de dos subunidades desiguales en tamaño, con valores
 
 ### ARN ribosómico 16s 
 
-<center>![](https://upload.wikimedia.org/wikipedia/commons/3/3d/10_small_subunit.gif)</center>
+<center>![ribosoma](https://upload.wikimedia.org/wikipedia/commons/3/3d/10_small_subunit.gif)</center>
 
 
 Es un polirribonucleótido de aproximadamente 1500 nucleótidos, codificado por el gen rrs, también denominado ADN ribosomal 16S (ADNr 16S), a partir de cuya secuencia se puede obtener información filogenética y taxonómica de los procariotas.
