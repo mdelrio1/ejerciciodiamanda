@@ -7,7 +7,7 @@ El nombre ribosoma, deriva del hecho de que estas partículas en *Escherichia co
 El ribosoma 70S se compone de dos subunidades desiguales en tamaño, con valores de sedimentación (Svedbergs) de 30S y 50S. La subunidad pequeña (30S) consiste de una molécula de rRNA 16S y 21 proteínas diferentes, mientras que la subunidad grande (50S) contiene una de rRNA 5S y otra de rRNA 23S, con 31 proteínas diferentes. 
 <center> 
 ![](http://pendientedemigracion.ucm.es/info/genetica/grupod/Traduccion/ribosom.jpg)
-#Ribosomas
+# Ribosomas
  </center>
 
 
@@ -30,7 +30,6 @@ La comparación de las secuencias de los ARNr 16S (o de los genes que los codifi
 
  Los ribosomas de las células eucariotas contienen cuatro diferente moléculas de ARN ribosómico (ARNr): 28S  18 S, 5.8 S, y 5 S. La subunidad mayor 60S del ribosoma contiene los RNA ribosómicos 28 S, 5.8 S y 5 S, mientras que la subunidad menor 40S contiene el ARNr 18 S.
 
-### Los siguientes párrafos los pusiste con inicio de renglón y ve lo que pasó. Por favor corrige
 Las tres ARNr moléculas, 18 S, 5.8 y 28 S son sintetizadas en el
 nucleolo, mientras que el 5S ARNr es sintetizado por la ARN polimerasa III fuera
 del mismo en otra región del nucleoplasma. Los ARNr constituyen el 80 % de las
