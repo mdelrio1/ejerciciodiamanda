@@ -4,7 +4,7 @@
 <center>![](http://2.bp.blogspot.com/-hVuCjgzJCJk/UIvOChMVC7I/AAAAAAAAADo/0rJRQEySIyY/s320/40765.jpeg)</center>
 
 ----------
-#el jurel cola amarilla es *Seriola lalandi* o *Seriola dorsalis* por favor corrige Revisa la carta estatal acuícolas  de B. C. y la carta federal pesquera y acuícola
+# el jurel cola amarilla es *Seriola lalandi* o *Seriola dorsalis* por favor corrige Revisa la carta estatal acuícolas  de B. C. y la carta federal pesquera y acuícola
 El jurel o chicharro común (*Trachurus spp.*) perteneciente a la familia de
 los carángidos, es un pez gregario y buen nadador, de cuerpo estilizado y comprimido. Estos peces son muy apreciados en la cocina japonesa,china,coreana y europea en donde se consume crudo fresco
 
