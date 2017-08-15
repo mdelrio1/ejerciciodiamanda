@@ -13,7 +13,7 @@ El ribosoma 70S se compone de dos subunidades desiguales en tamaño, con valores
 
 ----------
 
-###ARN ribosómico 16s 
+### ARN ribosómico 16s 
 
 <center>![](https://upload.wikimedia.org/wikipedia/commons/3/3d/10_small_subunit.gif)</center>
 
@@ -26,11 +26,11 @@ El análisis de la secuencia de los ARNr 16S de distintos grupos filogenéticos 
 La comparación de las secuencias de los ARNr 16S (o de los genes que los codifican) permite establecer las relaciones filogenéticas existentes entre los organismos procariotas. En microbiología clínica la identificación molecular basada en ADNr 16S se utiliza fundamentalmente para bacterias cuya identificación mediante otro tipo de técnica resulta imposible, difícil o requiere mucho tiempo.
 
 ----------
-###ARN ribosómico 18s
+### ARN ribosómico 18s
 
  Los ribosomas de las células eucariotas contienen cuatro diferente moléculas de ARN ribosómico (ARNr): 28S  18 S, 5.8 S, y 5 S. La subunidad mayor 60S del ribosoma contiene los RNA ribosómicos 28 S, 5.8 S y 5 S, mientras que la subunidad menor 40S contiene el ARNr 18 S.
 
-###Los siguientes párrafos los pusiste con inicio de renglón y ve lo que pasó. Por favor corrige
+### Los siguientes párrafos los pusiste con inicio de renglón y ve lo que pasó. Por favor corrige
 Las tres ARNr moléculas, 18 S, 5.8 y 28 S son sintetizadas en el
 nucleolo, mientras que el 5S ARNr es sintetizado por la ARN polimerasa III fuera
 del mismo en otra región del nucleoplasma. Los ARNr constituyen el 80 % de las
