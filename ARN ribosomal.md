@@ -9,6 +9,9 @@ El ribosoma 70S se compone de dos subunidades desiguales en tamaño, con valores
 ![](http://pendientedemigracion.ucm.es/info/genetica/grupod/Traduccion/ribosom.jpg)
 # Ribosomas
  </center>
+ <center>
+ ![logo](http://pendientedemigracion.ucm.es/info/genetica/grupod/Traduccion/ribosom.jpg)
+ </center>
 
 
 ----------
